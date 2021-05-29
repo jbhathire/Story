@@ -1,1 +1,51 @@
 This is chapter 3. This is also used as a test case for git.
+
+Vim is interesting.
+
+/* THIS IS ON VIM EDITOR
+To do list
+	1. Learn VIM
+	2. Master VIM
+	3. Complete the Bootcamp
+	4. Learning the commands
+	5. Mastering the commands
+	6. Redoing the same stuff the next day
+*/
+
+{
+This is another block of code
+but within a story
+}
+
+{
+This is in VIM editor
+it is becoming really interesting
+}
+
+const arr = [
+	'One',
+	'Two',
+	'Three',
+	'One',
+	'Two',
+	'Three',
+	'One',
+	'Two',
+	'Three',
+	'One',
+	'Two',
+	'Three',
+	'One',
+	'Two',
+	'Three',
+	'One',
+	'Two',
+	'Three',
+	'One',
+	'Two',
+	'Three',
+	'One',
+	'Two',
+]
+
+
