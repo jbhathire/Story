@@ -1,1 +1,0 @@
-This is chapter 3. This is also used as a test case for git.
